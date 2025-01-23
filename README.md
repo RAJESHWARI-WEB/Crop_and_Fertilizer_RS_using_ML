@@ -1,0 +1,2 @@
+# Crop_and_Fertilizer_RS_using_ML
+AICTE Internship project
